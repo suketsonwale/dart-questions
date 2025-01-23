@@ -2,11 +2,11 @@
 
 Welcome to the **dart-questions** repository! 🎉
 
-This repository contains a collection of **300 Dart questions** designed to help you build your skills in Dart programming. Whether you're a beginner or an advanced programmer, this collection has something for everyone.
+This repository contains a comprehensive collection of **300 Dart programming problems**, ranging from basic to advanced levels. Whether you're just starting out with Dart or looking to sharpen your skills for interviews or real-world applications, this repository has something for everyone.
 
-## Content
+## Content Overview
 
-The questions are organized in a progressive manner, starting from easy to more advanced topics. Here you'll find problems covering various aspects of Dart, including but not limited to:
+The questions are organized progressively, allowing you to improve your Dart programming skills in a structured manner. The topics covered include:
 
 - Basics of Dart programming
 - Data types, variables, and operators
@@ -15,28 +15,49 @@ The questions are organized in a progressive manner, starting from easy to more 
 - Object-oriented programming (OOP)
 - Collections (lists, sets, maps)
 - Error handling
-- Asynchronous programming (async, await, Future)
-- Flutter (Dart's use in Flutter apps)
+- Asynchronous programming (`async`, `await`, `Future`)
+- Flutter (using Dart in Flutter apps)
+
+## Organization
+
+The questions are divided into three main difficulty levels to cater to learners at different stages:
+
+1. **Easy-Level Programming Problems**  
+   - Basic syntax and operations
+   - Simple control flow
+   - Introduction to functions and methods
+
+2. **Mid-Level Programming Problems**  
+   - Data structures like lists, sets, and maps
+   - Intermediate algorithms and problem-solving
+   - Object-oriented programming concepts
+
+3. **Hard-Level Programming Problems**  
+   - Advanced algorithms and problem-solving
+   - Complex data structures (trees, graphs, etc.)
+   - Flutter-specific challenges
 
 ## How to Use
 
 1. Clone this repository to your local machine:
    git clone https://github.com/suketsonwale/dart-questions.git
-   
-2. Explore the questions, try to solve them, and build your Dart skills.
 
-3. If you want to contribute or suggest improvements, feel free to open an issue or submit a pull request.
+
+2. Explore the questions categorized by difficulty levels, try to solve them, and build your Dart skills.
+
+3. If you wish to contribute or suggest improvements, feel free to open an issue or submit a pull request.
 
 ## Why This Repository?
 
-- **300 questions** for practice
-- Organized by difficulty levels
+- **300 questions** for in-depth Dart practice
+- Organized by difficulty levels for progressive learning
 - Ideal for Dart beginners to advanced learners
-- A great resource for preparing for coding interviews and improving problem-solving skills
+- A valuable resource for preparing for coding interviews and improving problem-solving skills
+- Includes challenges for both core Dart programming and Flutter app development
 
-## Contribution
+## Contribution Guidelines
 
-Contributions are welcome! If you have any questions, improvements, or suggestions, feel free to open an issue or submit a pull request. 
+Contributions are welcome! If you have any questions, suggestions, or would like to contribute additional questions, please feel free to open an issue or submit a pull request.
 
 ### How to Contribute:
 
@@ -47,8 +68,8 @@ Contributions are welcome! If you have any questions, improvements, or suggestio
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-Feel free to reach out with any questions or feedback.
+Feel free to reach out with any questions, feedback, or suggestions.
